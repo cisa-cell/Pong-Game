@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+#board{
+    background-color:black;
+    border-bottom:10px solid skyblue;
+    border-top:10px solid skyblue;
+}
